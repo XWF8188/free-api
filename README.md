@@ -6,7 +6,7 @@
 
 | 配置项 | 值 |
 |--------|-----|
-| API 地址 | `https://golifnax-demo.hf.space/v1` |
+| API 地址 | `https://openai.smanx.xx.kg/v1` |
 | API Key | `sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa` |
 
 
