@@ -12,7 +12,7 @@
 |--------|-----|
 | API 地址 | `https://openai.good.hidns.vip/v1` |
 | API Key | `sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa` |
-| 模型状态 | [状态检测页面](https://status.good.hidns.vip) |
+| 模型状态 | [模型状态监测页面](https://status.good.hidns.vip) |
 
 
 ## 支持的模型
