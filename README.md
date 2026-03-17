@@ -12,6 +12,7 @@
 |--------|-----|
 | API 地址 | `https://openai.good.hidns.vip/v1` |
 | API Key | `sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa` |
+| 模型状态 | [状态检测页面](https://status.good.hidns.vip) |
 
 
 ## 支持的模型
@@ -25,6 +26,8 @@
 | k2.5 | Kimi | 很慢 |
 | minimax-m2.5 | MiniMax | 很慢 |
 
+> 模型变更：`gpt-5.4` 和 `gpt-5.3-codex` 已下线；为避免正在使用的人出问题，本服务目前使用 `gpt-5.2` 和 `gpt-5.2-codex` 作为替代（如你正在使用5.4或5.3，请及时调整切换到5.2）
+
 > 注意：该服务的 `grok` 和 `qwen` 不支持工具调用，在调用工具时会胡言乱语。
 
 ## 支持的端点
@@ -35,5 +38,4 @@
 ## 注意事项
 
 - 本服务为免费提供给个人，请合理使用
-- 模型变更：`gpt-5.4` 和 `gpt-5.3-codex` 已下线；为避免正在使用的人出问题，本服务目前使用 `gpt-5.2` 和 `gpt-5.2-codex` 作为替代（如你正在使用5.4或5.3，请及时调整切换到5.2）
 - 后续有什么变动会在该项目更新
