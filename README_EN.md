@@ -1,8 +1,8 @@
-# Free API - OpenAI-Compatible API
+# Free API - OpenAI & Anthropic Compatible API
 
 [中文](README.md) | [English](README_EN.md)
 
-Free API is a public, no-cost API service compatible with the OpenAI API format.
+Free API is a public, no-cost API service compatible with both OpenAI API and Anthropic Messages API formats.
 
 ## Quick Links
 
@@ -43,6 +43,7 @@ Free API is a public, no-cost API service compatible with the OpenAI API format.
 - `/v1/models` - Model list
 - `/v1/chat/completions` - Chat completions
 - `/v1/images/generations` - Image generation
+- `/v1/messages` - Anthropic Messages API (Claude SDK compatible)
 
 ## Minimal Example
 

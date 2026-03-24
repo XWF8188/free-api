@@ -1,8 +1,8 @@
-# Free API - 免费 OpenAI 兼容 API
+# Free API - 免费 OpenAI & Anthropic 兼容 API
 
 [中文](README.md) | [English](README_EN.md)
 
-这是一个免费提供的、兼容 OpenAI API 格式的大模型接口服务。
+这是一个免费提供的、兼容 OpenAI API 和 Anthropic Messages API 格式的大模型接口服务。
 
 ## 快速入口
 
@@ -44,6 +44,7 @@
 - `/v1/models` - 模型列表
 - `/v1/chat/completions` - 对话补全
 - `/v1/images/generations` - 图片生成
+- `/v1/messages` - Anthropic Messages API（兼容 Claude SDK）
 
 ## 最小可用示例
 
