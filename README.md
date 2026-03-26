@@ -29,7 +29,7 @@
 | GPT | gpt-5.4 | 对话、识图、工具，推荐使用 |
 | Grok | grok-4.1-fast | 生图首选，对话内容限制较少 |
 | Claude | claude-sonnet-4.6 | 新增，测试 |
-| Qwen | qwen3.5-flash | 通义千问 |
+| Qwen | qwen3.5-flash | 生图，视频识别 |
 | GLM | z-ai/glm5 | 智谱 GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
 | MiniMax | minimaxai/minimax-m2.5 | MiniMax |
@@ -92,6 +92,8 @@ curl https://openai.good.hidns.vip/v1/images/generations \
     "response_format": "b64_json"
   }'
 ```
+
+> 千问生图和视频识别请参考：[https://github.com/smanx/qwen2api](https://github.com/smanx/qwen2api)
 
 ## 交流社区
 

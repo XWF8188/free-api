@@ -28,7 +28,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 | GPT | gpt-5.4 | Recommended for chat, vision, and tool use |
 | Grok | grok-4.1-fast | Best suited for image generation, with fewer conversation restrictions |
 | Claude | claude-sonnet-4.6 | new,test |
-| Qwen | qwen3.5-flash | Tongyi Qianwen |
+| Qwen | qwen3.5-flash | Image generation, video recognition |
 | GLM | z-ai/glm5 | Zhipu GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
 | MiniMax | minimaxai/minimax-m2.5 | MiniMax |
@@ -91,6 +91,8 @@ curl https://openai.good.hidns.vip/v1/images/generations \
     "response_format": "b64_json"
   }'
 ```
+
+> For Qwen image generation and video recognition, please refer to: [https://github.com/smanx/qwen2api](https://github.com/smanx/qwen2api)
 
 ## Notes
 
